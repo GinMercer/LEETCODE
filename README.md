@@ -6,118 +6,118 @@ LeetCode
 | # | Title | c | c++ | python | go | js | java | Difficulty |
 |---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/) | | | | | | |Easy|
-|0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [c]() | [c++]() |[python]()|[go]()|| |Medium|
-|0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [c]() | [c++]() |[python]()|[go]()|| |Medium|
-|0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [c]() | [c++]() |[python]()|[go]()|||Hard|
-|0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |[c]() | [c++]() |[python]()|[go]()|||Medium|
-|0006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [c]() | [c++]() |[python]()|[go]()|| |Medium|
-|0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [c]() | [c++]() |[python]()|[go]()|| |Easy|
-|0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [c]() | [c++]() |[python]()|[go]()|||Medium|
-|0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [c]() | [c++]() |[python]()|[go]()|||Easy|
-|0010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [c]() | [c++]() |[python]()|[go]()|||Hard|
-|0011|[Container With Most Water](https://leetcode.com/problems/queue-reconstruction-by-height/)  [c]() | [c++]() |[python]()|[go]()|||Medium|
-|0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman)  [c]() | [c++]() |[python]()|[go]()|| |Medium|
-|0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)  [c]() | [c++]() |[python]()|[go]()|| |Easy|
-|0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)  [c]() | [c++]() |[python]()|[go]()|| |Easy|
-|0015|[3Sum](https://leetcode.com/problems/3sum/) [c]() | [c++]() |[python]()|[go]()|| |Medium|
-|0016|[3Sum Closest](https://leetcode.com/problems/3Sum-Closest/)  [c]() | [c++]() |[python]()|[go]()|| |Medium|
-|0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | c | [c++](./src/0017-Letter-Combinations-of-a-Phone-Number/0017.cpp) |[python](./src/0017-Letter-Combinations-of-a-Phone-Number/0017.py)||| |Medium|   
-|0018|[4Sum](https://leetcode.com/problems/4sum/) | c | [c++](./src/0018-4Sum/0018.cpp) |[python](./src/0018-4Sum/0018.py)||| |Medium|
-|0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | c | [c++](./src/0019-Remove-Nth-Node-From-End-of-List/0019.cpp) |[python](./src/0019-Remove-Nth-Node-From-End-of-List/0019.py)||| |Medium|
-|0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | c | [c++](./src/0020-Valid-Parentheses/0020.cpp) |[python](./src/0020-Valid-Parentheses/0020.py)||| |Easy|
-|0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | c | [c++](./src/0021-Merge-Two-Sorted-Lists/0021.cpp) |[python](./src/0021-Merge-Two-Sorted-Lists/0021.py)||| |Easy|
-|0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | c | [c++](./src/0022-Generate-Parentheses/0022.cpp) |[python](./src/0022-Generate-Parentheses/0022.py)||| |Medium|
-|0023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | c | [c++](./src/0023-Merge-k-Sorted-Lists/0023.cpp) |[python](./src/0023-Merge-k-Sorted-Lists/0023.py)||| |Hard|
-|0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | c | [c++](./src/0024-Swap-Nodes-in-Pairs/0024.cpp) |[python](./src/0024-Swap-Nodes-in-Pairs/0024.py)||| |Medium|
-|0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | c | [c++](./src/0025-Reverse-Nodes-in-k-Group/0025.cpp) |[python](./src/0025-Reverse-Nodes-in-k-Group/0025.py)||| |Hard|
-|0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | c | [c++](./src/0026-Remove-Duplicates-from-Sorted-Array/0026.cpp) |[python](./src/0026-Remove-Duplicates-from-Sorted-Array/0026.py)||| |Easy|
-|0027|[Remove Element](https://leetcode.com/problems/remove-element/) | c | [c++](./src/0027-Remove-Element/0027.cpp) |[python](./src/0027-Remove-Element/0027.py)||| |Easy|
-|0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | c | [c++](./src/0028-Implement-strStr()/0028.cpp) |[python](./src/0028-Implement-strStr()/0028.py)||| |Easy|
-|0029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | c | [c++](./src/0029-Divide-Two-Integers/0029.cpp) |[python](./src/0029-Divide-Two-Integers/0029.py)||| |Medium|
-|0030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | c | [c++](./src/0030-Substring-with-Concatenation-of-All-Words/0030.cpp) |[python](./src/0030-Substring-with-Concatenation-of-All-Words/0030.py)||| |Hard|
-|0031|[Next Permutation](https://leetcode.com/problems/next-permutation/) | c | [c++](./src/0031-Next-Permutation/0031.cpp) |[python](./src/0031-Next-Permutation/0031.py)||| |Medium|
-|0032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | c | [c++](./src/0032-Longest-Valid-Parentheses/0032.cpp) |[python](./src/0032-Longest-Valid-Parentheses/0032.py)||| |Hard|
-|0033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | c | [c++](./src/0033-Search-in-Rotated-Sorted-Array/0033.cpp) |[python](./src/0033-Search-in-Rotated-Sorted-Array/0033.py)||| |Medium|
-|0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | c | [c++](./src/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/0034.cpp) |[python](./src/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/0034.py)||| |Medium|
-|0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | c | [c++](./src/0035-Search-Insert-Position/0035.cpp) |[python](./src/0035-Search-Insert-Position/0035.py)||| |Easy|
-|0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | c | [c++](./src/0036-Valid-Sudoku/0036.cpp) |[python](./src/0036-Valid-Sudoku/0036.py)||| |Medium|
-|0037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | c | [c++](./src/0037-Sudoku-Solver/0037.cpp) |[python](./src/0037-Sudoku-Solver/0037.py)||| |Hard|
-|0038|[Count and Say](https://leetcode.com/problems/count-and-say/) | c | [c++](./src/0038-Count-and-Say/0038.cpp) |[python](./src/0038-Count-and-Say/0038.py)||| |Easy|
-|0039|[Combination Sum](https://leetcode.com/problems/combination-sum/) | c | [c++](./src/0039-Combination-Sum/0039.cpp) |[python](./src/0039-Combination-Sum/0039.py)||| |Medium|
-|0040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | c | [c++](./src/0040-Combination-Sum-II/0040.cpp) |[python](./src/0040-Combination-Sum-II/0040.py)||| |Medium|
-|0041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | c | [c++](./src/0041-First-Missing-Positive/0041.cpp) |[python](./src/0041-First-Missing-Positive/0041.py)||| |Hard|
-|0042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | c | [c++](./src/0042-Trapping-Rain-Water/0042.cpp) |[python](./src/0042-Trapping-Rain-Water/0042.py)||| |Hard|
-|0043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) | c | [c++](./src/0043-Multiply-Strings/0043.cpp) |[python](./src/0043-Multiply-Strings/0043.py)||| |Medium|
-|0044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | c | [c++](./src/0044-Wildcard-Matching/0044.cpp) |[python](./src/0044-Wildcard-Matching/0044.py)||| |Hard|
-|0045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/) | c | [c++](./src/0045-Jump-Game-II/0045.cpp) |[python](./src/0045-Jump-Game-II/0045.py)||| |Hard|
-|0046|[Permutations](https://leetcode.com/problems/permutations/) | c | [c++](./src/0046-Permutations/0046.cpp) |[python](./src/0046-Permutations/0046.py)||| |Medium|
-|0047|[Permutations II](https://leetcode.com/problems/permutations-ii/) | c | [c++](./src/0047-Permutations-II/0047.cpp) |[python](./src/0047-Permutations-II/0047.py)||| |Medium|
-|0048|[Rotate Image](https://leetcode.com/problems/rotate-image/) | c | [c++](./src/0048-Rotate-Image/0048.cpp) |[python](./src/0048-Rotate-Image/0048.py)||| |Medium|
-|0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | c | [c++](./src/0049-Group-Anagrams/0049.cpp) |[python](./src/0049-Group-Anagrams/0049.py)||| |Medium|
-|0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | c | [c++](./src/0050-Pow(x,n)/0050.cpp) |[python](./src/0050-Pow(x,n)/0050.py)||| |Medium|
-|0051|[N-Queens](https://leetcode.com/problems/n-queens/) | c | [c++](./src/0051-N-Queens/0051.cpp) |[python](./src/0051-N-Queens/0051.py)||| |Hard|
-|0052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/) | c | [c++](./src/0052-N-Queens-II/0052.cpp) |[python](./src/0052-N-Queens-II/0052.py)||| |Hard|
-|0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | c | [c++](./src/0053-Maximum-Subarray/0053.cpp) |[python](./src/0053-Maximum-Subarray/0053.py)||| |Easy|
-|0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | c | [c++](./src/0054-Spiral-Matrix/0054.cpp) |[python](./src/0054-Spiral-Matrix/0054.py)||| |Medium|
-|0055|[Jump Game](https://leetcode.com/problems/jump-game/) | c | [c++](./src/0055-Jump-Game/0055.cpp) |[python](./src/0055-Jump-Game/0055.py)||| |Medium|
-|0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | c | [c++](./src/0056-Merge-Intervals/0056.cpp) |[python](./src/0056-Merge-Intervals/0056.py)||| |Medium|
-|0057|[Insert Interval](https://leetcode.com/problems/insert-interval/) | c | [c++](./src/0057-Insert-Interval/0057.cpp) |[python](./src/0057-Insert-Interval/0057.py)||| |Hard|
-|0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | c | [c++](./src/0058-Length-of-Last-Word/0058.cpp) |[python](./src/0058-Length-of-Last-Word/0058.py)||| |Easy|
-|0059|[Spiral Matrix II](https://leetcode.com/problem/spiral-matrix-ii/) | c | [c++](./src/0059-Spiral-Matrix-II/0059.cpp) |[python](./src/0059-Spiral-Matrix-II/0059.py)||| |Hard|
-|0060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | c | [c++](./src/0060-Permutation-Sequence/0060.cpp) |[python](./src/0060-Permutation-Sequence/0060.py)||| |Medium|
-|0061|[Rotate List](https://leetcode.com/problems/rotate-list/) | c | [c++](./src/0061-Rotate-List/0061.cpp) |[python](./src/0061-Rotate-List/0061.py)||| |Medium|
-|0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) | c | [c++](./src/0062-Unique-Paths/0062.cpp) |[python](./src/0062-Unique-Paths/0062.py)||| |Medium|
-|0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | c | [c++](./src/0063-Unique-Paths-II/0063.cpp) |[python](./src/0063-Unique-Paths-II/0063.py)||| |Medium|
-|0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | c | [c++](./src/0064-Minimum-Path-Sum/0064.cpp) |[python](./src/0064-Minimum-Path-Sum/0064.py)||| |Medium|
-|0065|[Valid Number](https://leetcode.com/problems/valid-number/) | c | [c++](./src/0065-Valid-Number/0065.cpp) |[python](./src/0065-Valid-Number/0065.py)||| |Hard|
-|0066|[Plus One](https://leetcode.com/problems/plus-one/) | c | [c++](./src/0066-Plus-One/0066.cpp) |[python](./src/0066-Plus-One/0066.py)||| |Easy|
-|0067|[Add Binary](https://leetcode.com/problems/add-binary/) | c | [c++](./src/0067-Add-Binary/0067.cpp) |[python](./src/0067-Add-Binary/0067.py)||| |Easy|
-|0068|[Text Justification](https://leetcode.com/problems/text-justification/) | c | [c++](./src/0068-Text-Justification/0068.cpp) |[python](./src/0068-Text-Justification/0068.py)||| |Hard|
-|0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | c | [c++](./src/0069-Sqrt(x)/0069.cpp) |[python](./src/0069-Sqrt(x)/0069.py)||| |Easy|
-|0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | c | [c++](./src0070-Climbing-Stairs/0070.cpp) |[python](./src/0070-Climbing-Stairs/0070.py)||| |Easy|
-|0071|[Simplify Path](https://leetcode.com/problems/simplify-path/) | c | [c++](./src/0071-Simplify-Path/0071.cpp) |[python](./src/0071-Simplify-Path/0071.py)||| |Medium|
-|0072|[Edit Distance](https://leetcode.com/problems/edit-distance/) | c | [c++](./src/0072-Edit-Distance/0072.cpp) |[python](./src/0072-Edit-Distance/0072.py)||| |Hard|
-|0073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | c | [c++](./src/0073-Set-Matrix-Zeroes/0073.cpp) |[python](./src/0073-Set-Matrix-Zeroes/0073.py)||| |Medium|
-|0074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | c | [c++](./src/0074-Search-a-2D-Matrix/0074.cpp) |[python](./src/0074-Search-a-2D-Matrix/0074.py)||| |Medium|
-|0075|[Sort Colors](https://leetcode.com/problems/sort-colors/) | c | [c++](./src/0075-Sort-Colors/0075.cpp) |[python](./src/0075-Sort-Colors/0075.py)||| |Medium|
-|0076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | c | [c++](./src/0076-Minimum-Window-Substring/0076.cpp) |[python](./src/0076-Minimum-Window-Substring/0076.py)||| |Easy|
-|0077|[Combinations](https://leetcode.com/problems/combinations/) | c | [c++](./src/0077-Combinations/0077.cpp) |[python](./src/0077-Combinations/0077.py)||| |Medium|
-|0078|[Subsets](https://leetcode.com/problems/subsets/) | c | [c++](./src/0078-Subsets/0078.cpp) |[python](./src/0078-Subsets/0078.py)||| |Medium|
-|0079|[Word Search](https://leetcode.com/problems/word-search/) | c | [c++](./src/0079-Word-Search/0079.cpp) |[python](./src/0079-Word-Search/0079.py)||| |Medium|
-|0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | c | [c++]() |[python](./src/0080-Remove-Duplicates-from-Sorted-Array-II/0080.py)||| |Medium|
-|0081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | c | [c++](./src/0081-Search-in-Rotated-Sorted-Array-II/0081.py) |[python](./src/0081-Search-in-Rotated-Sorted-Array-II/0081.py)||| |Medium|
-|0082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | c | [c++](./src/0082-Remove-Duplicates-from-Sorted-List-II/0082.cpp) |[python](./src/0082-Remove-Duplicates-from-Sorted-List-II/0082.py)||| |Medium|
-|0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | c | [c++](./src/0083-Remove-Duplicates-from-Sorted-List/0083.cpp) |[python](./src/0083-Remove-Duplicates-from-Sorted-List/0083.py)||| |Easy|
-|0084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | c | [c++](./src/0084-Largest-Rectangle-in-Histogram/0084.cpp) |[python](./src/0084-Largest-Rectangle-in-Histogram/0084.py)||| |Hard|
-|0085|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | c | [c++](./src/0085-Maximal-Rectangle/0085.cpp) |[python](./src/0085-Maximal-Rectangle/0085.py)||| |Hard|
-|0086|[Partition List](https://leetcode.com/problems/partition-list/) | c | [c++](./src/0086-Partition-List/0086.cpp) |[python](./src/0086-Partition-List/0086.py)||| |Medium|
-|0087|[Scramble String](https://leetcode.com/problems/scramble-string/) | c | [c++](./src/0087-Scramble-String/0087.cpp) |[python](./src/0087-Scramble-String/0087.py)||| |Hard|
-|0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | c | [c++](./src/0088-Merge-Sorted-Array/0088.cpp) |[python](./src/0088-Merge-Sorted-Array/0088.py)||| |Easy|
-|0089|[Gray Code](https://leetcode.com/problems/gray-code/) | c | [c++](./src/0089-Gray-Code/0089.cpp) |[python](./src/0089-Gray-Code/0089.py)||| |Medium|
-|0090|[Subsets II](https://leetcode.com/problems/subsets-ii/) | c | [c++](./src/0090-Subsets-II/0090.cpp) |[python](./src/0090-Subsets-II/0090.py)||| |Medium|
-|0091|[Decode Ways](https://leetcode.com/problems/decode-ways/) | c | [c++](./src/0091-Decode-Ways/0091.cpp) |[python](./src/0091-Decode-Ways/0091.py)||| |Medium|
-|0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | c | [c++](./src/0092-Reverse-Linked-List-II/0092.cpp) |[python](./src/0092-Reverse-Linked-List-II/0092.py)||| |Medium|
-|0093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | c | [c++](./src/0093-Restore-IP-Addresses/0093.cpp) |[python](./src/0093-Restore-IP-Addresses/0093.py)||| |Medium|
-|0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | c | [c++](./src/0094-Binary-Tree-Inorder-Traversal/0094.cpp) |[python](./src/0094-Binary-Tree-Inorder-Traversal/0094.py)||| |Medium|
-|0095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | c | [c++](./src/0095-Unique-Binary-Search-Trees-II/0095.cpp) |[python](./src/0095-Unique-Binary-Search-Trees-II/0095.py)||| |Medium|
-|0096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | c | [c++](./src/0096-Unique-Binary-Search-Trees/0096.cpp) |[python](./src/0096-Unique-Binary-Search-Trees/0096.py)||| |Medium|
-|0097|[Interleaving String](https://leetcode.com/problems/interleaving-string/) | c | [c++](./src/0097-Interleaving-String/0097.cpp) |[python](./src/0097-Interleaving-String/0097.py)||| |Medium|
-|0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | c | [c++](./src/0098-Validate-Binary-Search-Tree/0098.cpp) |[python](./src/0098-Validate-Binary-Search-Tree/0098.py)||| |Medium|
-|0099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | c | [c++](./src/0087-Scramble-String/0087.cpp) |[python](./src/0087-Scramble-String/0087.py)||| |Hard|
-|0100|[Same Tree](https://leetcode.com/problems/same-tree/) | c | [c++](./src/0100-Same-Tree/0100.cpp) |[python](./src/0100-Same-Tree/0100.py)||| |Easy|
-|0101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | c | [c++](./src/0101-Symmetric-Tree/0101.cpp) |[python](./src/0101-Symmetric-Tree/0101.py)||| |Easy|
-|0102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | c | [c++](./src/0102-Binary-Tree-Level-Order-Traversal/0102.cpp) |[python](./src/0102-Binary-Tree-Level-Order-Traversal/0102.py)||| |Medium|
-|0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | c | [c++](./src/0103-Binary-Tree-Zigzag-Level-Order-Traversal/0103.cpp) |[python](./src/0103-Binary-Tree-Zigzag-Level-Order-Traversal/0103.py)||| |Medium|
-|0104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | c | [c++](./src/0104-Maximum-Depth-of-Binary-Tree/0104.cpp) |[python](./src/0104-Maximum-Depth-of-Binary-Tree/0104.py)||| |Easy|
-|0105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | c | [c++](./src/0105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/0105.cpp) |[python](./src/0105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/0105.py)||| |Medium|
-|0106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | c | [c++](./src/0106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/0106.cpp) |[python](./src/0106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/0106.py)||| |Medium|
-|0107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | c | [c++](./src/0107-Binary-Tree-Level-Order-Traversal-II/0107.cpp) |[python](./src/0107-Binary-Tree-Level-Order-Traversal-II/0107.py)||| |Easy|
-|0108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | c | [c++](./src/0108-Convert-Sorted-Array-to-Binary-Search-Tree/0108.cpp) |[python](./src/0108-Convert-Sorted-Array-to-Binary-Search-Tree/0108.py)||| |Easy|
-|0109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | c | [c++](./src/0109-Convert-Sorted-List-to-Binary-Search-Treel/0109.cpp) |[python](./src/0109-Convert-Sorted-List-to-Binary-Search-Tree/0109.py)||| |Medium|
-|0110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | c | [c++](./src/0110-Balanced-Binary-Tree/0110.cpp) |[python](./src/0110-Balanced-Binary-Tree/0110.py)||| |Easy|
-|0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | c | [c++](./src/0111-Minimum-Depth-of-Binary-Tree/0111.cpp) |[python](./src/0111-Minimum-Depth-of-Binary-Tree/0111.py)||| |Easy|
-|0112|[Path Sum](https://leetcode.com/problems/path-sum/) | c | [c++](./src/0112-Path-Sum/0112.cpp) |[python](./src/0112-Path-Sum/0112.py)||| |Easy|
-|0113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | c | [c++](./src/0113-Path-Sum-II/0113.cpp) |[python](./src/0113-Path-Sum-II/0113.py)||| |Medium|
+|0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | | | | | | |Medium|
+|0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | | | | | | |Medium|
+|0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | | | | | | |Hard|
+|0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | | | | | | |Medium|
+|0006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | | | | | | |Medium|
+|0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | | | | | | |Easy|
+|0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | | | | | | |Medium|
+|0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | | | | | | |Easy|
+|0010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | | | | | | |Hard|
+|0011|[Container With Most Water](https://leetcode.com/problems/queue-reconstruction-by-height/) | | | | | | |Medium|
+|0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman) | | | | | | |Medium|
+|0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | | | | | | |Easy|
+|0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | | | | | | |Easy|
+|0015|[3Sum](https://leetcode.com/problems/3sum/) | | | | | | |Medium|
+|0016|[3Sum Closest](https://leetcode.com/problems/3Sum-Closest/) | | | | | | |Medium|
+|0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | | | | | | |Medium|   
+|0018|[4Sum](https://leetcode.com/problems/4sum/) | | | | | | |Medium|
+|0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | | | | | | |Medium|
+|0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | | | | | | |Easy|
+|0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | | | | | | |Easy|
+|0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | | | | | | |Medium|
+|0023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | | | | | | |Hard|
+|0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | | | | | | |Medium|
+|0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | | | | | | |Hard|
+|0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | | | | | | |Easy|
+|0027|[Remove Element](https://leetcode.com/problems/remove-element/) | | | | | | |Easy|
+|0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | | | | | | |Easy|
+|0029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | | | | | | |Medium|
+|0030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | | | | | | |Hard|
+|0031|[Next Permutation](https://leetcode.com/problems/next-permutation/) | | | | | | |Medium|
+|0032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | | | | | | |Hard|
+|0033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | | | | | | |Medium|
+|0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | | | | | | |Medium|
+|0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | | | | | | |Easy|
+|0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | | | | | | |Medium|
+|0037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | | | | | | |Hard|
+|0038|[Count and Say](https://leetcode.com/problems/count-and-say/) | | | | | | |Easy|
+|0039|[Combination Sum](https://leetcode.com/problems/combination-sum/) | | | | | | |Medium|
+|0040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | | | | | | |Medium|
+|0041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | | | | | | |Hard|
+|0042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | | | | | | |Hard|
+|0043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) | | | | | | |Medium|
+|0044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | | | | | | |Hard|
+|0045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/) | | | | | | |Hard|
+|0046|[Permutations](https://leetcode.com/problems/permutations/) | | | | | | |Medium|
+|0047|[Permutations II](https://leetcode.com/problems/permutations-ii/) | | | | | | |Medium|
+|0048|[Rotate Image](https://leetcode.com/problems/rotate-image/) | | | | | | |Medium|
+|0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | | | | | | |Medium|
+|0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | | | | | | |Medium|
+|0051|[N-Queens](https://leetcode.com/problems/n-queens/) | | | | | | |Hard|
+|0052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/) | | | | | | |Hard|
+|0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | | | | | | |Easy|
+|0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | | | | | | |Medium|
+|0055|[Jump Game](https://leetcode.com/problems/jump-game/) | | | | | | |Medium|
+|0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | | | | | | |Medium|
+|0057|[Insert Interval](https://leetcode.com/problems/insert-interval/) | | | | | | |Hard|
+|0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | | | | | | |Easy|
+|0059|[Spiral Matrix II](https://leetcode.com/problem/spiral-matrix-ii/) | | | | | | |Hard|
+|0060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | | | | | | |Medium|
+|0061|[Rotate List](https://leetcode.com/problems/rotate-list/) | | | | | | |Medium|
+|0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) | | | | | | |Medium|
+|0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | | | | | | |Medium|
+|0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | | | | | | |Medium|
+|0065|[Valid Number](https://leetcode.com/problems/valid-number/) | | | | | | |Hard|
+|0066|[Plus One](https://leetcode.com/problems/plus-one/) | | | | | | |Easy|
+|0067|[Add Binary](https://leetcode.com/problems/add-binary/) | | | | | | |Easy|
+|0068|[Text Justification](https://leetcode.com/problems/text-justification/) | | | | | | |Hard|
+|0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | | | | | | |Easy|
+|0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | | | | | | |Easy|
+|0071|[Simplify Path](https://leetcode.com/problems/simplify-path/) | | | | | | |Medium|
+|0072|[Edit Distance](https://leetcode.com/problems/edit-distance/) | | | | | | |Hard|
+|0073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | | | | | | |Medium|
+|0074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | | | | | | |Medium|
+|0075|[Sort Colors](https://leetcode.com/problems/sort-colors/) | | | | | | |Medium|
+|0076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | | | | | | |Easy|
+|0077|[Combinations](https://leetcode.com/problems/combinations/) | | | | | | |Medium|
+|0078|[Subsets](https://leetcode.com/problems/subsets/) | | | | | | |Medium|
+|0079|[Word Search](https://leetcode.com/problems/word-search/) | | | | | | |Medium|
+|0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | | | | | | |Medium|
+|0081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | | | | | | |Medium|
+|0082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | | | | | | |Medium|
+|0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | | | | | | |Easy|
+|0084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | | | | | | |Hard|
+|0085|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | | | | | | |Hard|
+|0086|[Partition List](https://leetcode.com/problems/partition-list/) | | | | | | |Medium|
+|0087|[Scramble String](https://leetcode.com/problems/scramble-string/) | | | | | | |Hard|
+|0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | | | | | | |Easy|
+|0089|[Gray Code](https://leetcode.com/problems/gray-code/) | | | | | | |Medium|
+|0090|[Subsets II](https://leetcode.com/problems/subsets-ii/) | | | | | | |Medium|
+|0091|[Decode Ways](https://leetcode.com/problems/decode-ways/) | | | | | | |Medium|
+|0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | | | | | | |Medium|
+|0093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | | | | | | |Medium|
+|0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | | | | | | |Medium|
+|0095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | | | | | | |Medium|
+|0096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | | | | | | |Medium|
+|0097|[Interleaving String](https://leetcode.com/problems/interleaving-string/) | | | | | | |Medium|
+|0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | | | | | | |Medium|
+|0099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | | | | | | |Hard|
+|0100|[Same Tree](https://leetcode.com/problems/same-tree/) | | | | | | |Easy|
+|0101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | | | | | | |Easy|
+|0102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | | | | | | |Medium|
+|0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | | | | | | |Medium|
+|0104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | | | | | | |Easy|
+|0105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | | | | | | |Medium|
+|0106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | | | | | | |Medium|
+|0107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | | | | | | |Easy|
+|0108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | | | | | | |Easy|
+|0109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | | | | | | |Medium|
+|0110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | | | | | | |Easy|
+|0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | | | | | | |Easy|
+|0112|[Path Sum](https://leetcode.com/problems/path-sum/) | | | | | | |Easy|
+|0113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | | | | | | |Medium|
 |0114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | c | [c++](./src/0114-Flatten-Binary-Tree-to-Linked-List/0114.cpp) |[python](./src/0114-Flatten-Binary-Tree-to-Linked-List/0114.py)||| |Medium|
 |0115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | c | [c++](./src/0115-Distinct-Subsequences/0115.cpp) |[python](./src/0115-Distinct-Subsequences/0115.py)||| |Hard|
 |0116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | c | [c++](./src/0116-Populating-Next-Right-Pointers-in-Each-Node/0116.cpp) |[python](./src/0116-Populating-Next-Right-Pointers-in-Each-Node/0116.py)||| |Medium|
