@@ -5,16 +5,16 @@ LeetCode
 
 | # | Title | c | c++ | python | go | js | java | Difficulty |
 |---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-|0001|[Two Sum](https://leetcode.com/problems/two-sum/) | [c]() | [c++]() |[python]()|[go]()|| |Easy|
+|0001|[Two Sum](https://leetcode.com/problems/two-sum/) | | | | | | |Easy|
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [c]() | [c++]() |[python]()|[go]()|| |Medium|
-|0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  [c]() | [c++]() |[python]()|[go]()|| |Medium|
+|0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [c]() | [c++]() |[python]()|[go]()|| |Medium|
 |0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [c]() | [c++]() |[python]()|[go]()|||Hard|
-|0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) [c]() | [c++]() |[python]()|[go]()|||Medium|
-|0006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)  [c]() | [c++]() |[python]()|[go]()|| |Medium|
-|0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)  [c]() | [c++]() |[python]()|[go]()|| |Easy|
-|0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)  [c]() | [c++]() |[python]()|[go]()|||Medium|
-|0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)  [c]() | [c++]() |[python]()|[go]()|||Easy|
-|0010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)  [c]() | [c++]() |[python]()|[go]()|||Hard|
+|0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |[c]() | [c++]() |[python]()|[go]()|||Medium|
+|0006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [c]() | [c++]() |[python]()|[go]()|| |Medium|
+|0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [c]() | [c++]() |[python]()|[go]()|| |Easy|
+|0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [c]() | [c++]() |[python]()|[go]()|||Medium|
+|0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [c]() | [c++]() |[python]()|[go]()|||Easy|
+|0010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [c]() | [c++]() |[python]()|[go]()|||Hard|
 |0011|[Container With Most Water](https://leetcode.com/problems/queue-reconstruction-by-height/)  [c]() | [c++]() |[python]()|[go]()|||Medium|
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman)  [c]() | [c++]() |[python]()|[go]()|| |Medium|
 |0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)  [c]() | [c++]() |[python]()|[go]()|| |Easy|
